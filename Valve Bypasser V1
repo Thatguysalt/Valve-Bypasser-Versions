@@ -92,7 +92,7 @@ end)
 
 Section:NewButton("watch yo tone n word", "raacis", function()
     local args = {
-    [1] = "watch yo tone 𐌜 n𐌜𐌜 𐌜 i𐌜 g𐌜 g 𐌜a",
+    [1] = "watch yo tone 𐌜 n𐌜𐌜 𐌜 i𐌜 g𐌜 g𐌜a",
     [2] = "All"
 }game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
 end)
