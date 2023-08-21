@@ -1,0 +1,77 @@
+local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+
+local Window = Library.CreateLib("Valve Bypasser V1", "Ocean")
+
+local Tab = Window:NewTab("Bypasses")
+
+local Section = Tab:NewSection("feel free to check out")
+
+Section:NewButton("fuck", "🍌🍌", function()
+    local args = {
+    [1] = "𐌜 f𐌜𐌜 𐌜 u𐌜 с𐌜 k",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Section:NewButton("gosh stfu", "gosh hes annoying", function()
+    local args = {
+    [1] = "𐌜 g𐌜𐌜 𐌜 o𐌜 s𐌜 h 𐌜 s𐌜𐌜 𐌜 t𐌜 f𐌜 u",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Section:NewButton("you are ass (not working)", "is he indeed ass?", function()
+    local args = {
+    [1] = "you 𐌜 a𐌜𐌜 𐌜 r𐌜 e𐌜 a𐌜𐌜 𐌜 s𐌜 s𐌜 𐌜",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Section:NewButton("you should kill yourself", "we just lost another player 😭😭", function()
+    local args = {
+    [1] = "you should 𐌜 k𐌜𐌜 𐌜 i𐌜 l𐌜 l yourself",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Section:NewButton("fuck off", "you wanna get rid of him huh?", function()
+    local args = {
+    [1] = "𐌜 f𐌜𐌜 𐌜 u𐌜 с𐌜 k 𐌜 o𐌜𐌜 𐌜 f𐌜 f𐌜",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Section:NewButton("discord.gg/vadrifts (not working)", "you should definitely join", function()
+    local args = {
+    [1] = "𐌜 d𐌜𐌜 𐌜 i𐌜 s𐌜 c 𐌜 o𐌜𐌜 𐌜 r𐌜 d𐌜.gg/vadrifts",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Section:NewButton("i hate lgbtq+", "W homophobic", function()
+    local args = {
+    [1] = "i 𐌜 h𐌜𐌜 𐌜 a𐌜 t𐌜 e lgbtq+",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Section:NewButton("fuck lgbtq+", "i agree", function()
+    local args = {
+    [1] = "𐌜 f𐌜𐌜 𐌜 u𐌜 с𐌜 k 𐌜 lgbtq+",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Section:NewButton("im homophobic (not working)", "i respect you", function()
+    local args = {
+    [1] = " im 𐌜 h𐌜𐌜 𐌜 o𐌜 m𐌜 o 𐌜𐌜 p𐌜𐌜 𐌜 h𐌜 m𐌜 o 𐌜𐌜 b𐌜𐌜 𐌜 i𐌜 c𐌜",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Section:NewButton("adolf hitler was the best leaders of WW2", "i have a feeling you support nazist 🧐", function()
+    local args = {
+    [1] = " 𐌜 a𐌜𐌜 𐌜 d𐌜 o𐌜 l 𐌜𐌜f 𐌜 h𐌜𐌜 𐌜 i𐌜 t𐌜 l𐌜er was the best leaders of WW2",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
