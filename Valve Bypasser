@@ -4,7 +4,7 @@ local Window = Library.CreateLib("Valve Bypasser V1", "Ocean")
 
 local Tab = Window:NewTab("Bypasses")
 
-local Section = Tab:NewSection("feel free to check out")
+local Section = Tab:NewSection("Words")
 
 Section:NewButton("fuck", "🍌🍌", function()
     local args = {
@@ -12,6 +12,8 @@ Section:NewButton("fuck", "🍌🍌", function()
     [2] = "All"
 }game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
 end)
+
+local Section = Tab:NewSection("Sentences")
 
 Section:NewButton("gosh stfu", "gosh hes annoying", function()
     local args = {
@@ -48,6 +50,15 @@ Section:NewButton("discord.gg/vadrifts (not working)", "you should definitely jo
 }game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
 end)
 
+Section:NewButton("VADRIFTS IS FUCKING WINNING", "My friend, you should definitely join vadrifts on discord.", function()
+    local args = {
+    [1] = "VADRIFTS IS 𐌜 F𐌜𐌜 𐌜 U𐌜 C𐌜 KING WINNING",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+local Section = Tab:NewSection("Homophobia")
+
 Section:NewButton("i hate lgbtq+", "W homophobic", function()
     local args = {
     [1] = "i 𐌜 h𐌜𐌜 𐌜 a𐌜 t𐌜 e lgbtq+",
@@ -68,6 +79,8 @@ Section:NewButton("im homophobic (not working)", "i respect you", function()
     [2] = "All"
 }game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
 end)
+
+local Section = Tab:NewSection("Nazism")
 
 Section:NewButton("adolf hitler was the best leaders of WW2", "i have a feeling you support nazist 🧐", function()
     local args = {
@@ -90,16 +103,11 @@ Section:NewButton("soviet union x nazi germany", "that ship seems cringe", funct
 }game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
 end)
 
+local Section = Tab:NewSection("Racism")
+
 Section:NewButton("watch yo tone n word", "raacis", function()
     local args = {
     [1] = "watch yo tone 𐌜 n𐌜𐌜 𐌜 i𐌜 g𐌜 g𐌜a",
-    [2] = "All"
-}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
-end)
-
-Section:NewButton("VADRIFTS IS FUCKING WINNING", "My friend, you should definitely join vadrifts on discord.", function()
-    local args = {
-    [1] = "VADRIFTS IS 𐌜 F𐌜𐌜 𐌜 U𐌜 C𐌜 KING WINNING",
     [2] = "All"
 }game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
 end)
