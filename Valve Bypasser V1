@@ -96,3 +96,10 @@ Section:NewButton("watch yo tone n word", "raacis", function()
     [2] = "All"
 }game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
 end)
+
+Section:NewButton("VADRIFTS IS FUCKING WINNING", "My friend, you should definitely join vadrifts on discord.", function()
+    local args = {
+    [1] = "VADRIFTS IS 𐌜 F𐌜𐌜 𐌜 U𐌜 C𐌜 KING WINNING",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
