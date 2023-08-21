@@ -85,7 +85,14 @@ end)
 
 Section:NewButton("soviet union x nazi germany", "that ship seems cringe", function()
     local args = {
-    [1] = " soviet union x 𐌜 n𐌜𐌜 𐌜 a𐌜 z𐌜 i 𐌜 germany",
+    [1] = "soviet union x 𐌜 n𐌜𐌜 𐌜 a𐌜 z𐌜 i 𐌜 germany",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Section:NewButton("watch yo tone n word", "raacis", function()
+    local args = {
+    [1] = "watch yo tone 𐌜 n𐌜𐌜 𐌜 i𐌜 g𐌜 g 𐌜a",
     [2] = "All"
 }game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
 end)
