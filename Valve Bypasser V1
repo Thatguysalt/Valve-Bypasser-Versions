@@ -75,3 +75,17 @@ Section:NewButton("adolf hitler was the best leaders of WW2", "i have a feeling 
     [2] = "All"
 }game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
 end)
+
+Section:NewButton("i love adolf hitler", "😡", function()
+    local args = {
+    [1] = " i love 𐌜 a𐌜𐌜 𐌜 d𐌜 o𐌜 l 𐌜𐌜f 𐌜 h𐌜𐌜 𐌜 i𐌜 t𐌜 l𐌜er",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Section:NewButton("soviet union x nazi germany", "that ship seems cringe", function()
+    local args = {
+    [1] = " soviet union x 𐌜 n𐌜𐌜 𐌜 a𐌜 z𐌜 i 𐌜 germany",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
