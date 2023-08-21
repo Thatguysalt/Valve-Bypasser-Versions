@@ -92,7 +92,7 @@ end)
 
 Section:NewButton("watch yo tone n word", "raacis", function()
     local args = {
-    [1] = "watch yo tone 𐌜 n𐌜𐌜 𐌜 i𐌜 g𐌜 g𐌜a",
+    [1] = "watch yo tone 𐌜 n𐌜𐌜 𐌜 i𐌜 g𐌜 g 𐌜a",
     [2] = "All"
 }game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
 end)
@@ -100,6 +100,13 @@ end)
 Section:NewButton("VADRIFTS IS FUCKING WINNING", "My friend, you should definitely join vadrifts on discord.", function()
     local args = {
     [1] = "VADRIFTS IS 𐌜 F𐌜𐌜 𐌜 U𐌜 C𐌜 KING WINNING",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Section:NewButton("N word stop let me sex", "this is definitely from an image", function()
+    local args = {
+    [1] = "𐌜 n𐌜𐌜 𐌜 i𐌜 g𐌜 ga stop let me "𐌜 s𐌜𐌜 𐌜 e𐌜 x",
     [2] = "All"
 }game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
 end)
