@@ -118,3 +118,13 @@ Section:NewButton("N word stop let me sex", "this is definitely from an image", 
     [2] = "All"
 }game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
 end)
+
+local Section = Tab:NewSection("(E-)Sex")
+
+Section:NewButton("ah yes~ *moans* yes harder~ ", "we just lost another player 😭😭", function()
+    local args = {
+    [1] = "а⁥⁥⁥h⁥⁥⁥ ⁥⁥⁥у⁥⁥⁥е⁥⁥⁥ѕ⁥⁥⁥~⁥⁥⁥ ⁥⁥⁥*⁥⁥⁥m⁥⁥⁥о⁥⁥⁥а⁥⁥⁥n⁥⁥⁥ѕ⁥⁥⁥*⁥⁥⁥ ⁥⁥⁥у⁥⁥⁥е⁥⁥⁥ѕ⁥⁥⁥ ⁥⁥⁥h⁥⁥⁥а⁥⁥⁥r⁥⁥⁥d⁥⁥⁥е⁥⁥⁥r⁥⁥⁥~",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
