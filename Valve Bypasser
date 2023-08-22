@@ -22,9 +22,9 @@ Section:NewButton("gosh stfu", "gosh hes annoying", function()
 }game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
 end)
 
-Section:NewButton("you are ass (not working)", "is he indeed ass?", function()
+Section:NewButton("YOU ARE SO ASS AT THE GAME", "is he indeed ass?", function()
     local args = {
-    [1] = "you 𐌜 a𐌜𐌜 𐌜 r𐌜 e𐌜 a𐌜𐌜 𐌜 s𐌜 s𐌜 𐌜",
+    [1] = "Υ⁥⁥⁥⁥О⁥⁥⁥⁥U⁥⁥⁥⁥ А⁥⁥⁥⁥R⁥⁥⁥⁥Е⁥⁥⁥⁥ Ѕ⁥⁥⁥⁥О⁥⁥⁥⁥ А⁥⁥⁥⁥Ѕ⁥⁥⁥⁥Ѕ⁥⁥⁥⁥ А⁥⁥⁥⁥Т⁥⁥⁥⁥ Т⁥⁥⁥⁥HЕ⁥⁥⁥⁥ G⁥⁥⁥⁥А⁥⁥⁥⁥М⁥⁥⁥⁥Е",
     [2] = "All"
 }game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
 end)
