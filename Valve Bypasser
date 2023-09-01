@@ -165,9 +165,9 @@ Section:NewButton("roughsexbehindwalmart", "behind walmart uwu", function()
 }game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
 end)
 
-Section:NewButton("wereniggas.com", "behind walmart uwu", function()
+Section:NewButton("wereniggas.com", "this site doesn't exist at all!", function()
     local args = {
-    [1] = "roughsexbehindwalmart",
+    [1] = "wereniggas.com",
     [2] = "All"
 }game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
 end)
@@ -251,7 +251,7 @@ end)
 
 Section:NewButton("spicydickonthefloor", "GET EVERYING ON THE FLOOR NOW!", function()
     local args = {
-    [1] = "spickdickonthefloor",
+    [1] = "spicydickonthefloor",
     [2] = "All"
 }game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
 end)
