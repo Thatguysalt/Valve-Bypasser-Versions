@@ -13,6 +13,34 @@ Section:NewButton("fuck", "🍌🍌", function()
 }game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
 end)
 
+Section:NewButton("shit", "poops cutely uwu", function()
+    local args = {
+    [1] = "𐌜 s𐌜𐌜 𐌜 h𐌜 i𐌜 t",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Section:NewButton("bitch", "🐩", function()
+    local args = {
+    [1] = "𐌜 b𐌜𐌜 𐌜 i𐌜 t𐌜 c𐌜 h",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Section:NewButton("dick", "🍆🍆", function()
+    local args = {
+    [1] = "𐌜 d𐌜𐌜 𐌜 i𐌜 с𐌜 k",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Section:NewButton("nigga", "black monkey 😲", function()
+    local args = {
+    [1] = "𐌜 n𐌜𐌜 𐌜 i𐌜 g𐌜 g𐌜 a",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
 local Section = Tab:NewSection("Sentences")
 
 Section:NewButton("gosh stfu", "gosh hes annoying", function()
@@ -128,3 +156,116 @@ Section:NewButton("ah yes~ *moans* yes harder~ ", "we just lost another player �
 }game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
 end)
 
+local Section = Tab:NewSection("thanks to @holyerps for other bypassed stuff")
+
+Section:NewButton("roughsexbehindwalmart", "behind walmart uwu", function()
+    local args = {
+    [1] = "roughsexbehindwalmart",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Section:NewButton("wereniggas.com", "behind walmart uwu", function()
+    local args = {
+    [1] = "roughsexbehindwalmart",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Section:NewButton("twerkingmybigass", "twerk more", function()
+    local args = {
+    [1] = "twerkingmybigass",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Section:NewButton("naircreaminmyasscrack", "Def getting voted lol", function()
+    local args = {
+    [1] = "naircreaminmyasscrack",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Section:NewButton("blackmentwerking", "GOOD JOB 😁", function()
+    local args = {
+    [1] = "blackmentwerking",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Section:NewButton("adoptmesextoys", "u have gone too far now 😰", function()
+    local args = {
+    [1] = "adoptmesextoys",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Section:NewButton("bigdickonthefloor", "LICK IT NOW", function()
+    local args = {
+    [1] = "bigdickonthefloor",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Section:NewButton("longbouncaytitays", "idk if it works right", function()
+    local args = {
+    [1] = "longbouncaytitays",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Section:NewButton("stickywetcum", "yummy cum", function()
+    local args = {
+    [1] = "stickywetcum",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Section:NewButton("therearesomeyellowdicksonthefloor", "Yellow Lolz", function()
+    local args = {
+    [1] = "therearesomeyellowdicksonthefloor",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Section:NewButton("bigblackmenhumping", "hump me some more 😍", function()
+    local args = {
+    [1] = "bigblackmenhumping",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Section:NewButton("roughreddicksonthefloor", "we got the rainbow instead", function()
+    local args = {
+    [1] = "roughreddicksonthefloor",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end) 
+
+Section:NewButton("essexinbed", "Get on the bed right now", function()
+    local args = {
+    [1] = "essexinbed",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Section:NewButton("spicydickonthefloor", "GET EVERYING ON THE FLOOR NOW!", function()
+    local args = {
+    [1] = "spickdickonthefloor",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Section:NewButton("unprotectedsextonight", "Do it now", function()
+    local args = {
+    [1] = "unprotectedsextonight",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Section:NewButton("gayfurryprisonsex", "even more worse", function()
+    local args = {
+    [1] = "gayfurryprisonsex",
+    [2] = "All"
+}game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
